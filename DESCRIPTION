@@ -1,0 +1,11 @@
+Package: webdnaSybilla
+Type: Package
+Title: Link analytics models
+Version: 1.0
+Date: 2014-08-29
+Author: Mariusz Gil
+Maintainer: Mariusz Gil <mariusz@mariuszgil.pl>
+Description: Predicitive models for link analysis
+License: MIT
+Depends:
+    caret
